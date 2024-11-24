@@ -1,4 +1,4 @@
 # COCO Synthetic English-Malayalam Parallel Corpus
-This is an English Malayalam Parallel corpora which contains around 4 lakh parallel corpora. English sentences are from COCO dataset and it is translated using Google API.
+We extend our heartfelt gratitude to the contributors of the [COCO dataset](https://github.com/narVidhai/COCO-English-Malayalam-Synthetic-Parallel-Corpus/releases) for enabling the creation of this extensive Malayalam parallel corpus. This dataset contains approximately 400,000 parallel sentences, with English sentences sourced from the COCO dataset and translated into Malayalam using the Google API.
 
-Check [Releases](https://github.com/narVidhai/COCO-English-Malayalam-Synthetic-Parallel-Corpus/releases) section to download processed data.
+To facilitate easy access and usage, the corpus has been converted into .txt files, making it available for exploration on Kaggle.
